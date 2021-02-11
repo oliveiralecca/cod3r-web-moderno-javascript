@@ -9,4 +9,4 @@ var numero = 1
 }
 console.log('fora =', numero)
 
-// como estão dentro do mesmo escopo (global), uma sobrescreveu a outra
+// como estão dentro do mesmo escopo (global), a que foi declarada depois sobrescreveu a primeira
