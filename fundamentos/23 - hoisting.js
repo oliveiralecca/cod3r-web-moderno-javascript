@@ -32,6 +32,6 @@ teste()
    não ocorre Hoisting em declaração de variável com "let" 
 */
 
-console.log('b =', b)
+console.log('b =', b) // erro!
 let b = 3
 console.log('b =', b)
