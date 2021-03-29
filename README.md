@@ -1,2 +1,2 @@
 # cod3r-web-moderno-javascript
- Curso Web moderno e completo, com foco em JavaScript e seus frameworks, tanto no Front-end quanto no Back-end.
+Modern and complete Web course, focusing on JavaScript and its frameworks, both in the Front-end and in the Back-end.
